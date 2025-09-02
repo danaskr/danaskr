@@ -1,5 +1,11 @@
-## Hi there 👋
+## Dana, at your service — building stuff that works (sometimes)😉
 
+
+CS student @ ELTE 🎓 | Java ☕ & Python 🐍 in my toolbox  
+Backend builder 🛠️ 
+Always curious, occasionally caffeinated ☕ 
+
+📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/danaskr/)
 <!--
 **danaskr/danaskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
