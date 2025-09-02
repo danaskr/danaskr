@@ -1,4 +1,4 @@
-## Dana, at your service — building stuff that works (sometimes)😉
+## Dana, — building stuff that works (sometimes)😉
 
 
 CS student @ ELTE 🎓
