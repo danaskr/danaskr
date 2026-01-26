@@ -7,11 +7,10 @@ Java ☕ & Python 🐍
 
 Backend builder 🛠️
 
-Always curious, occasionally caffeinated ☕ 
 
 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/dana-saker/)
 
-![](download.gif)
+
 <!--
 **danaskr/danaskr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
