@@ -3,10 +3,6 @@
 
 CS student @ ELTE 🎓
 
-Java ☕ & Python 🐍 
-
-Backend builder 🛠️
-
 
 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/dana-saker/)
 
